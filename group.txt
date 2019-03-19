@@ -1,14 +1,10 @@
 GROUP CHANGE
-<<<<<<< HEAD
 Eding same file
-=======
-
 Adding the names of our group:
-
 RashmiCM
 Sujithra
 Nisha
 Ambily
 Abijith
->>>>>>> d2fed8f9fa8ebb64be104b1a40856d36fc3e42cd
 Editing group file
+Nisha modified
