@@ -1,7 +1,6 @@
 GROUP CHANGE
-<<<<<<< HEAD
+Added few more lines
 Eding same file
-=======
 
 Adding the names of our group:
 
@@ -10,5 +9,4 @@ Sujithra
 Nisha
 Ambily
 Abijith
->>>>>>> d2fed8f9fa8ebb64be104b1a40856d36fc3e42cd
 Editing group file
