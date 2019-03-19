@@ -1,2 +1,10 @@
 GROUP CHANGE
 Added few more lines
+
+Adding the names of our group:
+
+RashmiCM
+Sujithra
+Nisha
+Ambily
+Abijith
